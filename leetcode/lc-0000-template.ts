@@ -3,7 +3,7 @@ Problem:
 
 */
 
-const foo = () => {
+function foo() {
 
 }
 
